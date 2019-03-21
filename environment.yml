@@ -50,7 +50,6 @@ dependencies:
   - notebook=5.7.6
   - numpy=1.16.2
   - openblas=0.3.5
-  - openssl=1.1.1b
   - pandoc=2.7.1
   - pandocfilters=1.4.2
   - pathlib2=2.3.3
